@@ -1,10 +1,10 @@
-site_name: "Plantilla de talleres"
+site_name: "Curso de Alfabetizacion Digital"
 site_author: "Aula de Software Libre <aulasoftwarelibre@uco.es>"
-site_description: "Plantilla para crear documentación de los talleres del aula"
-site_url: "https://github.com/aulasoftwarelibre/plantilla-talleres"
+site_description: "Curso de Voluntariado en Alfabetización digital y Software Libre a colectivos desfavorecidos y en riesgo de exclusión social "
+site_url: "https://github.com/aulasoftwarelibre/curso-de-alfabetizacion-digital"
 
-repo_name: "aulasoftwarelibre/plantilla-talleres"
-repo_url: "https://github.com/aulasoftwarelibre/plantilla-talleres"
+repo_name: "aulasoftwarelibre/curso-de-alfabetizacion-digital"
+repo_url: "https://github.com/aulasoftwarelibre/curso-de-alfabetizacion-digital"
 
 copyright: Copyleft - CC BY-NC 4.0 - Aula de Software Libre
 
