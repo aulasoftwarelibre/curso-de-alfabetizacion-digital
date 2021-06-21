@@ -1,1 +1,3 @@
-# Linux
+# Introducción
+
+![Linux](images/linux.svg)

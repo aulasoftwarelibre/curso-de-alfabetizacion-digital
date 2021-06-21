@@ -10,14 +10,21 @@ manuales libres que pueden encontrarse en la sección de [Referencias](/referenc
 
 ## Contenido
 
-- [Inicio](index)
-- [Referencias](referencias)
+- [Inicio](index.md)
+- [Linux](Linux/linux.md)
+- [Writter](Writter/writter.md)
+- [Calc](Calc/calc.md)
+- [Impress](Impress/impress.md)
+- [Firefox](Firefox/firefox.md)
+- [Gimp](GIMP/gimp.md)
+- [Referencias](referencias.md)
 
 ## Agradecimientos
 
 Este curso ha sido impartido por las siguientes personas:
 
 - [Alberto Cano](https://github.com/0Kan0)
+- [Alejandro Luna](https://github.com/AlexLunaP)
 - [Antonio Moruno](https://github.com/moruno21)
 - [David Pérez](https://github.com/Davison27)
 - [David Salcedo](https://github.com/Salsedini)

@@ -1,1 +1,3 @@
-# Gimp
+# Introducción
+
+![Gimp](images/gimp.png)
