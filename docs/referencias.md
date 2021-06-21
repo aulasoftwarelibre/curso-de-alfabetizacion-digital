@@ -1,3 +1,3 @@
 # Referencias
 
-- [Documentación oficial en inglés](https://docs.python.org/3/).
+- [Documentación oficial](https://documentation.libreoffice.org/es/documentacion-en-espanol/).
