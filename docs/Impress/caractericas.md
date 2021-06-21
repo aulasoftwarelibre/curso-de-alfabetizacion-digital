@@ -1,0 +1,1 @@
+# Características principales

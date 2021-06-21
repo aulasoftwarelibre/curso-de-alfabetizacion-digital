@@ -1,0 +1,1 @@
+# ¿Diferencias con Adobe Photoshop?
