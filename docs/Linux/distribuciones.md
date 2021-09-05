@@ -2,7 +2,7 @@
 
 ![Distros](images/distros.png)
 
-Estas son todas las distribuciones de linux disponibles desde 1992 hasta 2013. En la actualidad el desarrollo ha continuado y han surgido un montón de distribuciones nuevas que se han ido uniendo a las ya existentes. Las principales son:
+Estas son todas las distribuciones de linux disponibles desde 1992 hasta 2013. En la actualidad el desarrollo ha continuado y han surgido un montón de distribuciones nuevas que se han ido uniendo a las ya existentes.
 
 ![Distros](images/distros.jpg)
 

@@ -1,6 +1,6 @@
 # Inicio
 
-![Aula Software Libre de la UCO](images/logo-cuadrado-invertido.svg)
+![Aula Software Libre de la UCO](images/intro.jpeg)
 
 Este taller forma parte de las actividades del [Aula de Software Libre de la
 Universidad de Córdoba](https://www.uco.es/aulasoftwarelibre).
@@ -10,28 +10,24 @@ manuales libres que pueden encontrarse en la sección de [Referencias](/referenc
 
 ## Contenido
 
-- [Inicio](index.md)
-- [Linux](Linux/linux.md)
-- [Writter](Writter/writter.md)
-- [Calc](Calc/calc.md)
-- [Impress](Impress/impress.md)
-- [Firefox](Firefox/firefox.md)
-- [Gimp](GIMP/gimp.md)
+- [Bienvenido a Linux](Linux/linux.md)
+- [Primeros pasos en Writter](Writter/writter.md)
+- [Aprende a trabajar con Calc](Calc/calc.md)
+- [Presentaciones con Impress](Impress/impress.md)
+- [Navegando con Firefox](Firefox/firefox.md)
+- [Retoca tus fotos con Gimp](GIMP/gimp.md)
 - [Referencias](referencias.md)
 
 ## Agradecimientos
 
-Este curso ha sido impartido por las siguientes personas:
+Este curso ha sido realizado por las siguientes personas:
 
-- [Alberto Cano](https://github.com/0Kan0)
-- [Alejandro Luna](https://github.com/AlexLunaP)
-- [Antonio Moruno](https://github.com/moruno21)
-- [David Pérez](https://github.com/Davison27)
-- [David Salcedo](https://github.com/Salsedini)
-- [Javier de Santiago](https://github.com/jdes01)
-- [Moises Moyano](https://github.com/mmc2001)
+
+- Mayte Hernández
+- Teresa González
+- Alfonso Padilla
+- Emilio Aguilar
 - [Marcos Rivera](https://github.com/MarcosRigal)
-- [Marcos Rodríguez](https://github.com/mark-doblefilo)
 
 ## Licencia
 

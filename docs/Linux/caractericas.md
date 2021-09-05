@@ -11,7 +11,7 @@ Su condición de sistema operativo de código abierto hace posible aprovechar lo
 Linux posee un fuerte soporte para el área de comunicaciones y redes.
 Orientado al trabajo en red, Linux es una inmensa alianza de usuarios distribuidos en todo el planeta, que aportan mejoras y soluciones  en forma abierta mediante Internet. Gracias a esta condición, Linux se desarrolla más rápidamente y en forma más eficiente. Además, el sistema operativo posee un fuerte soporte para el área de comunicaciones y redes.
 
-## Es el sistema operativo preferido por los informáticos
+## Es un sistema operativo hecho a medida
 
 La posibilidad de modificaciones constantes y libres y su gran poder de cómputo y procesamiento han transformado a Linux en el sistema operativo preferido por los informáticos y especialistas.
 
