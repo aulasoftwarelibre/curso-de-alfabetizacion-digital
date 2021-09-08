@@ -4,8 +4,6 @@ Para abrir el programa ir al menú de Aplicaciones > Oficina > OpenOffice.org Pr
 
 Si lanzamos la aplicación nos muestra el asistente para crear una nueva presentación.
 
-Si el usuario dispone de una presentación y quiere abrirla simplemente haciendo doble clic sobre la referencia es sufciente. Las presentaciones por defecto en LliureX siempre se abren con Impress, tanto si son de Windows como de GNU/Linux.
-
 Los pasos para generar una presentación están detallados en la actividad 4.16.
 
 El aspecto de la ventana de trabajo de Impress es el que se muestra enla imagen siguiente:
