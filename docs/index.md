@@ -10,18 +10,15 @@ manuales libres que pueden encontrarse en la sección de [Referencias](/referenc
 
 ## Contenido
 
-- [Bienvenido a Linux](Linux/linux.md)
-- [Primeros pasos en Writter](Writter/writter.md)
-- [Aprende a trabajar con Calc](Calc/calc.md)
-- [Presentaciones con Impress](Impress/impress.md)
-- [Navegando con Firefox](Firefox/firefox.md)
-- [Retoca tus fotos con Gimp](GIMP/gimp.md)
+- [Introducción](Linux/linux.md)
+- [Hardware y Software](Writter/writter.md)
+- [Ofimática](Calc/calc.md)
+- [Internet](Impress/impress.md)
 - [Referencias](referencias.md)
 
 ## Agradecimientos
 
 Este curso ha sido realizado por las siguientes personas:
-
 
 - Mayte Hernández
 - Teresa González
