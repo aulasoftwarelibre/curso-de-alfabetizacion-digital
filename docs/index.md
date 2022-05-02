@@ -6,24 +6,20 @@ Este taller forma parte de las actividades del [Aula de Software Libre de la
 Universidad de Córdoba](https://www.uco.es/aulasoftwarelibre).
 
 El contenido del mismo es en parte de producción propia, en parte de otros
-manuales libres que pueden encontrarse en la sección de [Referencias](/referencias).
+manuales libres que pueden encontrarse en la sección de [Referencias](referencias.md).
 
 ## Contenido
 
-- [Introducción](Linux/linux.md)
-- [Hardware y Software](Writter/writter.md)
-- [Ofimática](Calc/calc.md)
-- [Internet](Impress/impress.md)
+- [Hardware y Software](Hardware & Software/Introduccion.md)
+- [Ofimática](Ofimatica/Introduccion.md)
+- [Internet](Internet/Introduccion.md)
 - [Referencias](referencias.md)
 
 ## Agradecimientos
 
-Este curso ha sido realizado por las siguientes personas:
+Este curso ha sido impartido por las siguientes personas:
 
-- Mayte Hernández
 - Teresa González
-- Alfonso Padilla
-- Emilio Aguilar
 - [Marcos Rivera](https://github.com/MarcosRigal)
 
 ## Licencia
